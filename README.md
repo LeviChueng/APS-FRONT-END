@@ -2,6 +2,10 @@
 
 Projeto desenvolvido para a disciplina de Desenvolvimento Front-End, com o objetivo de criar a camada cliente de uma aplicação de lista de tarefas (to-do list), integrada a um servidor já existente.
 
+## Integrantes
+- Levi Chueng (2024100950)
+- Luíza Neves (2024100738)
+
 ## Funcionalidades
 
 * Cadastro de usuário
