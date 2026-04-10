@@ -66,7 +66,7 @@ if (registerForm) {
                 localStorage.setItem("token", data.access_token || '');
                 localStorage.setItem("user", JSON.stringify(data.user));
                 alert("Usuário registrado com sucesso!");
-                window.location.href = "tasks.html";
+                window.location.href = "login.html";
             } else {
                 alert(data.message || "Erro no registro. Email já cadastrado?");
             }
